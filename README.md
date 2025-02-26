@@ -1,1 +1,4 @@
-# multiple_and_dynamic_spark_streaming
+# Multiple and Dynamic Spark Streaming
+
+## Flow Architecture:
+![alt text]([https://github.com/vukhanh09/TikiAnalysis/blob/main/architecture/architecture.png?raw=true](https://github.com/vukhanh09/multiple-and-dynamic-spark-streaming/blob/main/spark_streaming.jpg?raw=true))
